@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library>
+    <catalogues category="technical books">
+        <book>
+            <ISBN10>1285452348</ISBN10>
+            <ISBN13>978-1285452340</ISBN13>
+            <title>Information Technology Project Management</title>
+            <author>Kathy Schwalbe</author>
+        </book>
+        <book>
+            <ISBN10>0073516880</ISBN10>
+            <ISBN13>978-0073516882</ISBN13>
+            <title>Using Information Technology</title>
+            <author>Brian Williams &amp; Stacey Sawyer</author>
+        </book>
+    </catalogues>
+    <catalogues category="cookery">
+        <book>
+            <ISBN10>1469647540</ISBN10>
+            <ISBN13>978-1469647548</ISBN13>
+            <title>The Foxfire Book of Appalachian Cookery</title>
+            <author>T. J. Smith (Editor), Sean Brock (Foreword)</author>
+        </book>
+        <book>
+            <ISBN10></ISBN10>
+            <ISBN13></ISBN13>
+            <title>More Make-A-Mix Cookery</title>
+            <author>Karine Eliason &amp; Nevada Harward &amp; Madeline Westover</author>
+        </book>
+     </catalogues>
+</library>   
