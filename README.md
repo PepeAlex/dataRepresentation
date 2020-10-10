@@ -15,4 +15,4 @@
 
     4 - Books will have an ISBN, title and author.
     
-The file name is dataRepresentation.xml and was written in Notepad++. This file is also available is this repository. 
+The filename is dataRepresentation.xml and was written in Notepad++. This file is also available is this repository.
